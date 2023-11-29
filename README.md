@@ -21,7 +21,7 @@ A resolução dos exercícios:
 Na linguagem C# está no diretório: ws-vs2022
 Na linguagem C++ está no diretório: ws-cb
 Na linguagem Java está no diretório: ws-eclipse
-Na linguagem Python está no diretório: ws-pycharm
+Na linguagem Python está no diretório: ws-pycharm/primeiro
 
 Para criar os scripts:
 Na linguagem C# usamos o Visual Studio.

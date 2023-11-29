@@ -1,0 +1,14 @@
+C:\Temp\ws-vs2022\Crescente\Crescente\obj\Debug\net6.0\Crescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2022\Crescente\Crescente\obj\Debug\net6.0\Crescente.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2022\Crescente\Crescente\obj\Debug\net6.0\Crescente.AssemblyInfo.cs
+C:\Temp\ws-vs2022\Crescente\Crescente\obj\Debug\net6.0\Crescente.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2022\Crescente\Crescente\bin\Debug\net6.0\Crescente.exe
+C:\Temp\ws-vs2022\Crescente\Crescente\bin\Debug\net6.0\Crescente.deps.json
+C:\Temp\ws-vs2022\Crescente\Crescente\bin\Debug\net6.0\Crescente.runtimeconfig.json
+C:\Temp\ws-vs2022\Crescente\Crescente\bin\Debug\net6.0\Crescente.dll
+C:\Temp\ws-vs2022\Crescente\Crescente\bin\Debug\net6.0\Crescente.pdb
+C:\Temp\ws-vs2022\Crescente\Crescente\obj\Debug\net6.0\Crescente.dll
+C:\Temp\ws-vs2022\Crescente\Crescente\obj\Debug\net6.0\refint\Crescente.dll
+C:\Temp\ws-vs2022\Crescente\Crescente\obj\Debug\net6.0\Crescente.pdb
+C:\Temp\ws-vs2022\Crescente\Crescente\obj\Debug\net6.0\Crescente.genruntimeconfig.cache
+C:\Temp\ws-vs2022\Crescente\Crescente\obj\Debug\net6.0\ref\Crescente.dll

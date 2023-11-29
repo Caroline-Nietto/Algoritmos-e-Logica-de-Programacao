@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Menor_De_Tres/1.0.0": {
+        "runtime": {
+          "Menor_De_Tres.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Menor_De_Tres/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Temp\ws-vs2022\Menor_De_Tres\Menor_De_Tres\bin\Debug\net6.0\Menor_De_Tres.exe
+C:\Temp\ws-vs2022\Menor_De_Tres\Menor_De_Tres\bin\Debug\net6.0\Menor_De_Tres.deps.json
+C:\Temp\ws-vs2022\Menor_De_Tres\Menor_De_Tres\bin\Debug\net6.0\Menor_De_Tres.runtimeconfig.json
+C:\Temp\ws-vs2022\Menor_De_Tres\Menor_De_Tres\bin\Debug\net6.0\Menor_De_Tres.dll
+C:\Temp\ws-vs2022\Menor_De_Tres\Menor_De_Tres\bin\Debug\net6.0\Menor_De_Tres.pdb
+C:\Temp\ws-vs2022\Menor_De_Tres\Menor_De_Tres\obj\Debug\net6.0\Menor_De_Tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2022\Menor_De_Tres\Menor_De_Tres\obj\Debug\net6.0\Menor_De_Tres.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2022\Menor_De_Tres\Menor_De_Tres\obj\Debug\net6.0\Menor_De_Tres.AssemblyInfo.cs
+C:\Temp\ws-vs2022\Menor_De_Tres\Menor_De_Tres\obj\Debug\net6.0\Menor_De_Tres.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2022\Menor_De_Tres\Menor_De_Tres\obj\Debug\net6.0\Menor_De_Tres.dll
+C:\Temp\ws-vs2022\Menor_De_Tres\Menor_De_Tres\obj\Debug\net6.0\refint\Menor_De_Tres.dll
+C:\Temp\ws-vs2022\Menor_De_Tres\Menor_De_Tres\obj\Debug\net6.0\Menor_De_Tres.pdb
+C:\Temp\ws-vs2022\Menor_De_Tres\Menor_De_Tres\obj\Debug\net6.0\Menor_De_Tres.genruntimeconfig.cache
+C:\Temp\ws-vs2022\Menor_De_Tres\Menor_De_Tres\obj\Debug\net6.0\ref\Menor_De_Tres.dll

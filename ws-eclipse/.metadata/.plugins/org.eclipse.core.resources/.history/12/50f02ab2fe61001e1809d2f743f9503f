@@ -1,0 +1,41 @@
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Soma_Vetor {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		Locale.setDefault(Locale.US);
+		
+	int n;
+	double soma, media;
+	
+	System.out.print("Quantos numeros voce vai digitar? ");
+	n = sc.nextInt();
+	
+	double[] vet = new double[n];
+	
+	for (int i = 0; i < n; i++) {
+		System.out.print("Digite um numero: ");
+		vet[i] = sc.nextDouble();
+	}
+	
+	System.out.println();
+	System.out.print("VALORES = ");
+	for (int i = 0; i < n; i++) {
+		System.out.print(String.format("%.1f ", vet[i]));
+	}
+	System.out.println();
+	
+	soma = 0;
+	for (int i = 0; i < n; i++) {
+		soma = soma + vet[i];
+	}
+	System.out.println("SOMA = " + String.format("%2.f", soma));
+	
+	media = soma / n;
+	System.out.println("MEDIA = " + String.format("%2.f", media));
+			
+	sc.close();
+	}
+}

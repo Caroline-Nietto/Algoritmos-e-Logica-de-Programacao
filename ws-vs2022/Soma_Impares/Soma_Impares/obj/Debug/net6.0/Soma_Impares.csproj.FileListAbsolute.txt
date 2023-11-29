@@ -1,0 +1,14 @@
+C:\Temp\ws-vs2022\Soma_Impares\Soma_Impares\bin\Debug\net6.0\Soma_Impares.exe
+C:\Temp\ws-vs2022\Soma_Impares\Soma_Impares\bin\Debug\net6.0\Soma_Impares.deps.json
+C:\Temp\ws-vs2022\Soma_Impares\Soma_Impares\bin\Debug\net6.0\Soma_Impares.runtimeconfig.json
+C:\Temp\ws-vs2022\Soma_Impares\Soma_Impares\bin\Debug\net6.0\Soma_Impares.dll
+C:\Temp\ws-vs2022\Soma_Impares\Soma_Impares\bin\Debug\net6.0\Soma_Impares.pdb
+C:\Temp\ws-vs2022\Soma_Impares\Soma_Impares\obj\Debug\net6.0\Soma_Impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2022\Soma_Impares\Soma_Impares\obj\Debug\net6.0\Soma_Impares.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2022\Soma_Impares\Soma_Impares\obj\Debug\net6.0\Soma_Impares.AssemblyInfo.cs
+C:\Temp\ws-vs2022\Soma_Impares\Soma_Impares\obj\Debug\net6.0\Soma_Impares.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2022\Soma_Impares\Soma_Impares\obj\Debug\net6.0\Soma_Impares.dll
+C:\Temp\ws-vs2022\Soma_Impares\Soma_Impares\obj\Debug\net6.0\refint\Soma_Impares.dll
+C:\Temp\ws-vs2022\Soma_Impares\Soma_Impares\obj\Debug\net6.0\Soma_Impares.pdb
+C:\Temp\ws-vs2022\Soma_Impares\Soma_Impares\obj\Debug\net6.0\Soma_Impares.genruntimeconfig.cache
+C:\Temp\ws-vs2022\Soma_Impares\Soma_Impares\obj\Debug\net6.0\ref\Soma_Impares.dll

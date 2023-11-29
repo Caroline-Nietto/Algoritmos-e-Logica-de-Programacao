@@ -1,0 +1,14 @@
+C:\Temp\ws-vs2022\Segundo\Segundo\bin\Debug\net6.0\Segundo.exe
+C:\Temp\ws-vs2022\Segundo\Segundo\bin\Debug\net6.0\Segundo.deps.json
+C:\Temp\ws-vs2022\Segundo\Segundo\bin\Debug\net6.0\Segundo.runtimeconfig.json
+C:\Temp\ws-vs2022\Segundo\Segundo\bin\Debug\net6.0\Segundo.dll
+C:\Temp\ws-vs2022\Segundo\Segundo\bin\Debug\net6.0\Segundo.pdb
+C:\Temp\ws-vs2022\Segundo\Segundo\obj\Debug\net6.0\Segundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2022\Segundo\Segundo\obj\Debug\net6.0\Segundo.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2022\Segundo\Segundo\obj\Debug\net6.0\Segundo.AssemblyInfo.cs
+C:\Temp\ws-vs2022\Segundo\Segundo\obj\Debug\net6.0\Segundo.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2022\Segundo\Segundo\obj\Debug\net6.0\Segundo.dll
+C:\Temp\ws-vs2022\Segundo\Segundo\obj\Debug\net6.0\refint\Segundo.dll
+C:\Temp\ws-vs2022\Segundo\Segundo\obj\Debug\net6.0\Segundo.pdb
+C:\Temp\ws-vs2022\Segundo\Segundo\obj\Debug\net6.0\Segundo.genruntimeconfig.cache
+C:\Temp\ws-vs2022\Segundo\Segundo\obj\Debug\net6.0\ref\Segundo.dll

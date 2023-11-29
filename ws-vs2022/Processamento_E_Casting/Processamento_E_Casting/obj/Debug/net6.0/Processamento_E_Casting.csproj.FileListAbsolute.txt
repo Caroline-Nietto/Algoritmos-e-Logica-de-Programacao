@@ -1,0 +1,14 @@
+C:\Temp\ws-vs2022\Processamento_E_Casting\Processamento_E_Casting\bin\Debug\net6.0\Processamento_E_Casting.exe
+C:\Temp\ws-vs2022\Processamento_E_Casting\Processamento_E_Casting\bin\Debug\net6.0\Processamento_E_Casting.deps.json
+C:\Temp\ws-vs2022\Processamento_E_Casting\Processamento_E_Casting\bin\Debug\net6.0\Processamento_E_Casting.runtimeconfig.json
+C:\Temp\ws-vs2022\Processamento_E_Casting\Processamento_E_Casting\bin\Debug\net6.0\Processamento_E_Casting.dll
+C:\Temp\ws-vs2022\Processamento_E_Casting\Processamento_E_Casting\bin\Debug\net6.0\Processamento_E_Casting.pdb
+C:\Temp\ws-vs2022\Processamento_E_Casting\Processamento_E_Casting\obj\Debug\net6.0\Processamento_E_Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2022\Processamento_E_Casting\Processamento_E_Casting\obj\Debug\net6.0\Processamento_E_Casting.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2022\Processamento_E_Casting\Processamento_E_Casting\obj\Debug\net6.0\Processamento_E_Casting.AssemblyInfo.cs
+C:\Temp\ws-vs2022\Processamento_E_Casting\Processamento_E_Casting\obj\Debug\net6.0\Processamento_E_Casting.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2022\Processamento_E_Casting\Processamento_E_Casting\obj\Debug\net6.0\Processamento_E_Casting.dll
+C:\Temp\ws-vs2022\Processamento_E_Casting\Processamento_E_Casting\obj\Debug\net6.0\refint\Processamento_E_Casting.dll
+C:\Temp\ws-vs2022\Processamento_E_Casting\Processamento_E_Casting\obj\Debug\net6.0\Processamento_E_Casting.pdb
+C:\Temp\ws-vs2022\Processamento_E_Casting\Processamento_E_Casting\obj\Debug\net6.0\Processamento_E_Casting.genruntimeconfig.cache
+C:\Temp\ws-vs2022\Processamento_E_Casting\Processamento_E_Casting\obj\Debug\net6.0\ref\Processamento_E_Casting.dll

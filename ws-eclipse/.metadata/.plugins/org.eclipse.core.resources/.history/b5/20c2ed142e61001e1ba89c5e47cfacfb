@@ -1,0 +1,12 @@
+
+public class Saida_De_Dados {
+
+	public static void main(String[] args) {
+		
+		double x;
+		x = 2.3456; 
+		System.out.println(String.format("%.2f", x)); 
+
+	}
+
+}

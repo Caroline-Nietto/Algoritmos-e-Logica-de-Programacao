@@ -1,0 +1,14 @@
+C:\Temp\ws-vs2022\Estrutura_De_Controle\Estrutura_De_Controle\bin\Debug\net6.0\Estrutura_De_Controle.exe
+C:\Temp\ws-vs2022\Estrutura_De_Controle\Estrutura_De_Controle\bin\Debug\net6.0\Estrutura_De_Controle.deps.json
+C:\Temp\ws-vs2022\Estrutura_De_Controle\Estrutura_De_Controle\bin\Debug\net6.0\Estrutura_De_Controle.runtimeconfig.json
+C:\Temp\ws-vs2022\Estrutura_De_Controle\Estrutura_De_Controle\bin\Debug\net6.0\Estrutura_De_Controle.dll
+C:\Temp\ws-vs2022\Estrutura_De_Controle\Estrutura_De_Controle\bin\Debug\net6.0\Estrutura_De_Controle.pdb
+C:\Temp\ws-vs2022\Estrutura_De_Controle\Estrutura_De_Controle\obj\Debug\net6.0\Estrutura_De_Controle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2022\Estrutura_De_Controle\Estrutura_De_Controle\obj\Debug\net6.0\Estrutura_De_Controle.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2022\Estrutura_De_Controle\Estrutura_De_Controle\obj\Debug\net6.0\Estrutura_De_Controle.AssemblyInfo.cs
+C:\Temp\ws-vs2022\Estrutura_De_Controle\Estrutura_De_Controle\obj\Debug\net6.0\Estrutura_De_Controle.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2022\Estrutura_De_Controle\Estrutura_De_Controle\obj\Debug\net6.0\Estrutura_De_Controle.dll
+C:\Temp\ws-vs2022\Estrutura_De_Controle\Estrutura_De_Controle\obj\Debug\net6.0\refint\Estrutura_De_Controle.dll
+C:\Temp\ws-vs2022\Estrutura_De_Controle\Estrutura_De_Controle\obj\Debug\net6.0\Estrutura_De_Controle.pdb
+C:\Temp\ws-vs2022\Estrutura_De_Controle\Estrutura_De_Controle\obj\Debug\net6.0\Estrutura_De_Controle.genruntimeconfig.cache
+C:\Temp\ws-vs2022\Estrutura_De_Controle\Estrutura_De_Controle\obj\Debug\net6.0\ref\Estrutura_De_Controle.dll
